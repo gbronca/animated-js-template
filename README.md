@@ -6,3 +6,5 @@ This is a small and fun project that aim to add Javascript animations to an stat
 - Image sources:
   - [Unsplash](https://unsplash.com/)
   - [Random User Generator](https://randomuser.me/)
+- Javascript Animation Library
+  - [AOS (Animate On Scroll Library)](https://michalsnik.github.io/aos/)
